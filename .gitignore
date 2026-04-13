@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Installer/compiler temp files
+installer/version.auto.iss
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local app data and personal projects
+data/*.json
+!data/.gitkeep
+
+# Test/debug leftovers
+*.log
+*.tmp
