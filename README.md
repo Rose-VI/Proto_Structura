@@ -160,4 +160,4 @@ python -m unittest discover -s tests -v
 
 ## Licencia
 
-Todavía no definida.
+Este proyecto está publicado bajo la licencia MIT.
